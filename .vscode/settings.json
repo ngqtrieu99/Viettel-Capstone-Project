@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "pdcp.h": "c",
+        "rte_malloc.h": "c",
+        "rte_cryptodev.h": "c",
+        "dlmalloc.h": "c",
+        "mempool.h": "c",
+        "mpcommon.h": "c",
+        "time.h": "c",
+        "stdint.h": "c",
+        "msg_q.h": "c",
+        "crypto-dpdk.h": "c",
+        "testbench.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
